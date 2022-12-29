@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+   <title>DOM Form</title>
+</head>
+<body>
+
+   <div id="userInfo">
+      <label>name:</label>
+	  <input type="text" id="name"><br><br>
+	  <label>batch:</label>
+	  <input type="text" id="batch"><br><br>
+	  <label>role:</label>
+	  <input type="text" id="role"><br><br>
+	  <label>pic:</label>
+	  <input type="file" id="myfile" multiple><br><br>
+	  <button id="submit">Add</button>
+   </div>
+
+
+
+
+
+  <script src="js/main.js"></script>
+</body>
+</html>
